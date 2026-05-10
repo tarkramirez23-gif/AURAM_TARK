@@ -76,7 +76,7 @@ lib/
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) `>=3.0.0`
 - [Dart SDK](https://dart.dev/get-dart) `>=3.0.0`
 - Android Studio
-- Visual Code
+- VS Code
 - Emulador Android o dispositivo físico
 
 ### Pasos
