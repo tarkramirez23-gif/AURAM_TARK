@@ -129,7 +129,7 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](tarkramirez23-gif)
+- GitHub: (tarkramirez23-gif)
 - LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
 
 ---
