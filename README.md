@@ -71,7 +71,7 @@ lib/
 
 ## 🚀 Instalación y ejecución
 
-### Requisitos previos
+### Requisitos Tecnicos.
 
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) `>=3.0.0`
 - [Dart SDK](https://dart.dev/get-dart) `>=3.0.0`
