@@ -102,8 +102,8 @@ flutter run
 
 > *Próximamente / Coming soon*
 
-| Inicio | Pagos | Historial |
-|--------|-------|-----------|
+| Inicio |
+|--------|
 | ![home](<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/bcc5d59f-e0e8-4a4c-a5f2-427055fe8b36" />
 ) 
 
