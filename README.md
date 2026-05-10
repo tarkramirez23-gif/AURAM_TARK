@@ -129,7 +129,7 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ## 👤 Autor
 
-**Tu Nombre**
+**THEYLOR RAMIREZ VASQUEZ**
 - GitHub: (tarkramirez23-gif)
 - LinkedIn: (https://www.linkedin.com/in/theylor-ramirez-vasquez-4799112a6/)
 
