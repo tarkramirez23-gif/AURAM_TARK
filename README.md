@@ -8,7 +8,7 @@ La app busca empoderar al usuario con herramientas claras y concisas para tomar 
 
 ✨ Características principales
 
-💰 Gestión de saldo — Visualiza tu saldo disponible en tiempo real
+- Gestión de saldo — Visualiza tu saldo disponible en tiempo real
 📊 Análisis financiero — Gráficas e informes del historial de gastos e ingresos
 💸 Pago de servicios — Paga luz, agua, internet, teléfono y más
 🔄 Transferencias — Envía y recibe dinero entre usuarios
