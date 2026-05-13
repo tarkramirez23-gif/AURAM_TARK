@@ -111,7 +111,7 @@ flutter run
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas colaborar:
---Puedes trabajar siguiendo estas recomendaciones:
+¡Puedes trabajar siguiendo estas recomendaciones:
 
 1. Haz un fork del proyecto
 2. Crea una rama para tu feature: `git checkout -b feature/nueva-funcionalidad`
