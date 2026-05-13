@@ -3,7 +3,7 @@
 
  
 📱 Descripción
-Digital Wallet es una aplicación móvil desarrollada con Flutter y Dart que permite a los usuarios gestionar su dinero de forma inteligente, visualizar sus finanzas personales y realizar pagos de servicios de manera rápida y segura.
+AURAM es una aplicación móvil desarrollada con Flutter y Dart que permite a los usuarios gestionar su dinero de forma inteligente, visualizar sus finanzas personales y realizar pagos de servicios de manera rápida y segura.
 La app busca empoderar al usuario con herramientas claras y concisas para tomar mejores decisiones financieras, todo desde la palma de su mano.
 
 ✨ Características principales
@@ -111,6 +111,7 @@ flutter run
 ## 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas colaborar:
+Puedes trabajar siguiendo estas recomendaciones:
 
 1. Haz un fork del proyecto
 2. Crea una rama para tu feature: `git checkout -b feature/nueva-funcionalidad`
