@@ -136,4 +136,4 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ---
 
-<p align="center">Hecho con ❤️ y <a href="https://flutter.dev">Flutter</a></p>
+
