@@ -64,7 +64,7 @@ lib/
 │   │   ├── transactions/
 │   │   └── profile/
 │   └── widgets/
-└── providers/          # o bloc/ según el estado elegido
+└── providers/          
 ```
 
 ---
