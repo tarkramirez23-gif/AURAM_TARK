@@ -25,9 +25,6 @@ La app busca empoderar al usuario con herramientas claras y concisas para tomar 
   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" />
 </p>
 
-<p align="center">
-  Aplicación móvil de billetera digital diseñada para mejorar la salud financiera del usuario y facilitar el pago de servicios desde un solo lugar.
-</p>
 
 ---
 
