@@ -96,7 +96,7 @@ flutter run
 
 ---
 
-## 📸 Capturas de pantalla
+## 📸 Demostración de la App
 
 | Inicio de la App movil |
 |--------|
