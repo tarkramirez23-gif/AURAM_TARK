@@ -13,7 +13,7 @@ La app busca empoderar al usuario con herramientas claras y concisas para tomar 
 - Pago de servicios — Paga luz, agua, internet, teléfono y más
 - Transferencias — Envía y recibe dinero entre usuarios
 - Notificaciones — Alertas de movimientos y recordatorios de pagos
-- Seguridad — Autenticación con PIN / biometría
+- Seguridad — Autenticación con PIN o biometría
 - Historial de transacciones — Registro detallado de todos tus movimientos
 
 # 💳 Digital Wallet 
