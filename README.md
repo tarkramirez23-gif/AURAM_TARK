@@ -16,7 +16,7 @@ La app busca empoderar al usuario con herramientas claras y concisas para tomar 
 - Seguridad — Autenticación con PIN / biometría
 - Historial de transacciones — Registro detallado de todos tus movimientos
 
-# 💳 Digital Wallet — Billetera Digital
+# 💳 Digital Wallet 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
