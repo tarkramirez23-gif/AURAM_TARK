@@ -4,7 +4,7 @@
  
 📱 
 AURAM es una aplicación móvil desarrollada con Flutter y Dart que permite a los usuarios gestionar su dinero de forma inteligente,responsable , visualizar sus finanzas personales y realizar pagos de servicios de manera rápida y segura.
-La app busca empoderar al usuario con herramientas claras y concisas para tomar mejores decisiones financieras.
+La app busca mejorar la vida al usuario con herramientas claras y concisas para tomar mejores decisiones financieras.
 
 ✨ Características principales
 
