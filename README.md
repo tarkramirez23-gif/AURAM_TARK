@@ -11,7 +11,7 @@ La app busca mejorar la vida al usuario con herramientas claras y concisas para 
 - Gestión de saldo — Visualiza tu saldo disponible en tiempo real
 - Análisis financiero — Gráficas e informes del historial de gastos e ingresos
 - Pago de servicios — Paga luz, agua, internet, teléfono y más
-- Transferencias — Envía y recibe dinero entre usuarios
+- Transferencias — Envía y recibe dinero entre usuarios y clientes
 - Notificaciones — Alertas de movimientos y recordatorios de pagos
 - Seguridad — Autenticación con PIN o biometría
 - Historial de transacciones — Registro detallado de todos tus movimientos
