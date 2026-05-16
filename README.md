@@ -1,7 +1,15 @@
- 📊​BILLETERA DIGITAL
+# 💳 Digital Wallet 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" />
+</p>
 
 
- 
+---
+
 📱 
 AURAM es una aplicación móvil desarrollada con Flutter y Dart que permite a los usuarios gestionar su dinero de forma inteligente,responsable , visualizar sus finanzas personales y realizar pagos de servicios de manera rápida y segura.
 La app busca mejorar la vida al usuario con herramientas claras y concisas para tomar mejores decisiones financieras.
@@ -15,18 +23,6 @@ La app busca mejorar la vida al usuario con herramientas claras y concisas para 
 - Notificaciones — Alertas de movimientos y recordatorios de pagos
 - Seguridad — Autenticación con PIN o biometría
 - Historial de transacciones — Registro detallado de todos tus movimientos
-
-# 💳 Digital Wallet 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" />
-</p>
-
-
----
 
 ## 🛠️ Tecnologías utilizadas
 
