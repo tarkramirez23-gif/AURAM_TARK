@@ -70,7 +70,7 @@ lib/
 - [Dart SDK](https://dart.dev/get-dart) `>=3.0.0`
 - Android Studio
 - VS Code
-- Emulador Android o dispositivo físico
+- Emulador Android o dispositivo físico para trabjar mediante depuración USB
 
 ### Pasos
 
