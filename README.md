@@ -72,7 +72,7 @@ lib/
 - VS Code
 - Emulador Android o dispositivo físico para trabjar mediante depuración USB
 
-### Pasos
+### Pasos a seguir
 
 ```bash
 # 1. Clona el repositorio
