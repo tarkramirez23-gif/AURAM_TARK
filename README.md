@@ -33,7 +33,7 @@ La app busca mejorar la vida al usuario con herramientas claras y concisas para 
 | [Provider / Riverpod / Bloc](https://pub.dev/) | Gestión de estado *(indicar el que uses)* |
 | [HTTP / Dio](https://pub.dev/packages/dio) | Consumo de APIs |
 | [SharedPreferences](https://pub.dev/packages/shared_preferences) | Almacenamiento local |
-| [Firebase](https://firebase.google.com/) | Autenticación y base de datos *(si aplica)* |
+| [Firebase](https://firebase.google.com/) | Autenticación y base de datos  |
 
 ---
 
