@@ -24,7 +24,7 @@ La app busca mejorar la vida al usuario con herramientas claras y concisas para 
 - Seguridad — Autenticación con PIN o biometría
 - Historial de transacciones — Registro detallado de todos tus movimientos
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas.
 
 | Tecnología | Descripción |
 |---|---|
