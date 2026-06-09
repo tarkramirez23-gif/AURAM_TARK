@@ -92,7 +92,7 @@ flutter run
 
 ---
 
-## 📸 Demostración de la App
+## 📸 Demostración de la App.
 
 | Inicio de la App movil |
 |--------|
