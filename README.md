@@ -37,7 +37,7 @@ La app busca mejorar la vida al usuario con herramientas claras y concisas para 
 
 ---
 
-## 📂 Estructura del proyecto
+## 📂 Estructura del proyecto.
 
 ```
 lib/
