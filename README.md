@@ -62,7 +62,7 @@ lib/
 
 ---
 
-## 🚀 Instalación y ejecución
+## 🚀 Instalación y ejecución.
 
 ### Requisitos Tecnicos.
 
