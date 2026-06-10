@@ -101,7 +101,7 @@ flutter run
 
 ---
 
-## 🤝 Contribuciones
+## 🤝 Contribuciones.
 
 ¡Las contribuciones son bienvenidas! Si deseas colaborar:
 ¡Puedes trabajar siguiendo estas recomendaciones!
