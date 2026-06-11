@@ -120,7 +120,7 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ---
 
-## 👤 Autor
+## 👤 Autor.
 
 **THEYLOR RAMIREZ VASQUEZ**
 - GitHub: (tarkramirez23-gif)
